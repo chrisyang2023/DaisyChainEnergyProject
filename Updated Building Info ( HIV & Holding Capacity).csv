@@ -1,0 +1,37 @@
+Property ID,APTS,Address,State,Type,BLL_ID,HVI,Holding Capacity ( kWA)
+CT-TAGE-865MIXAVE,76,"865 Mix Ave, Hamden, CT 06514",CT,Resi Rental,,,
+CT-TAGE-975MIXAVE,55,"975 Mix Ave, Hamden, CT 06514",CT,Resi Rental,,,
+CT-TAGE-925MIXAVE,57,"925 Mix Ave, Hamden, CT 06514",CT,Resi Rental,,,
+CT-TAGE-955MIXAVE,57,"955 Mix Ave, Hamden, CT 06514",CT,Resi Rental,,,
+CT-TAGE-905MIXAVE,57,"905 Mix Ave, Hamden, CT 06514",CT,Resi Rental,,,
+CT-TAGE-ELIW,52,"750 WHITNEY AVE HM, NEW HAVEN, CT 06511",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD10,11,"1298 Hartford Tpke, BLDG 10, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD11,10,"1298 Hartford Tpke, BLDG 11, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD3,6,"1298 Hartford Tpke, BLDG 3, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD4,11,"1298 Hartford Tpke, BLDG 4, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD5,8,"1298 Hartford Tpke, BLDG 5, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD6,11,"1298 Hartford Tpke, BLDG 6, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD7,10,"1298 Hartford Tpke, BLDG 7, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD9,10,"1298 Hartford Tpke, BLDG 9, North Haven, CT 06473",CT,Resi Rental,,,
+CT-TAGE-ROSEWOOD8,9,"1298 Hartford Tpke, BLDG 8, North Haven, CT 06473",CT,Resi Rental,,,
+BKLN-SUNGARDEN,17,"655 41st St, Brooklyn, NY 11232",NY,Coop,3091800050,2,103
+NYC-2CHARLTON,185,"2 Charlton St, New York, NY 10014",NY,Coop,1005060027,1,74
+NYC-W83ST,69,"46 W 83rd St, New York, NY 10024",NY,Coop,1011960052,1,48
+BKLN-152FREEMAN,8,"152 Freeman St, Brooklyn, NY 11222",NY,Condo,3025120038,2,318
+NYC-W93ST,90,"123 W 93rd St, New York, NY 10025",NY,Coop,1012240023,1,239
+BKLN-BAYVIEW,17,"671 47th St, Brooklyn, NY 11220",NY,Coop,3007580048,3,64
+BKLN-ELMO,26,"728 41st St, Brooklyn, NY 11232",NY,Coop,3009220017,2,169
+BKLN-HILLSIDE,18,"566 44th St, Brooklyn, NY 11220",NY,Coop,3007390030,2,114
+BKLN-PRKSLOPE,42,"521-531 41st St, Brooklyn, NY 11232",NY,Coop,3009170058,2,118
+BKLN-PARKSIDE,41,"549-561 41st St, Brooklyn, NY 11232",NY,Coop,3009170048,2,90
+BKLN-149PPSW,16,"149 Prospect Park Southwest, Brooklyn, NY 11218",NY,Coop,3052680089,1,89
+BKLN-250PPSW,17,"250 Prospect Park Southwest, Brooklyn, NY 11218",NY,Coop,3011130055,1,67
+BKLN-SEAMANAVE,43,"109 Seaman Ave, New York, NY 10034",NY,Coop,1022400001,3,202
+BKLN-SEAMANAVE,,"112 Seaman Ave, New York, NY 10035",NY,Coop,1022480112,3,121
+BKLN-SEAMANAVE,,"116 Seaman Ave, New York, NY 10036",NY,Coop,1022480109,3,68
+,,,,,,,
+Energy Use Intensity (kBTU/ft)2)1,,,,,,,
+116,,,,,,,
+107.2,,,,,,,
+81.5,,,,,,,
+95,,,,,,,
